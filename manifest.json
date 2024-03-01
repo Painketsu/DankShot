@@ -1,0 +1,38 @@
+{ 
+    "manifest_version": 2,
+    "name": "DankShot",
+    "version": "6.9",
+    "description": "Clip streams (Twitch, Kick, Rumble)",
+
+    "background": { 
+        "scripts": ["background.js"]
+    },
+
+    "applications": {
+        "gecko": {
+          "id": "painketsu@protonmail.com",
+          "strict_min_version": "50.0"
+        }
+      },
+
+    "permissions": [
+        "webRequest",
+        "downloads",
+        "downloads.open",
+        "tabs",
+        "nativeMessaging",
+        "contextMenus",
+        "<all_urls>"
+    ],
+
+    "icons": {
+        "48": "icons/64_002.png",
+        "96": "icons/64_002.png"
+    },
+      
+    "browser_action": {
+        "default_icon": {
+            "64": "icons/64_002.png"
+        }
+    }
+}
