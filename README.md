@@ -3,7 +3,7 @@ Instantly clip and download segments from livestreams without traces or an accou
 
 Works on: Twitch, Kick, Rumble, Fansly
 
-**Only tested on Firefox**
+**Firefox only for now**
 
 [Example.webm](https://github.com/Painketsu/DankShot/assets/11485235/cbfe78f7-bdea-42ff-a592-5e980b067f46)
 
