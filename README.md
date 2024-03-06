@@ -8,4 +8,4 @@ Works on: Twitch, Kick, Rumble, Fansly
 [Example.webm](https://github.com/Painketsu/DankShot/assets/11485235/cbfe78f7-bdea-42ff-a592-5e980b067f46)
 
 ## Companion app
-**Requires [DankShotConverter](https://github.com/Painketsu/DankShotConverter)** to actually convert the segment into a local file since browser extensions are cucked like that
+**Requires [DankShotConverter](https://github.com/Painketsu/DankShotConverter)** to actually convert the segments into a local file since browser extensions are cucked like that
