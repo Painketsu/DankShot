@@ -1,19 +1,12 @@
 { 
     "manifest_version": 2,
     "name": "DankShot",
-    "version": "6.9",
+    "version": "7.0",
     "description": "Clip streams (Twitch, Kick, Rumble)",
 
     "background": { 
         "scripts": ["background.js"]
     },
-
-    "applications": {
-        "gecko": {
-          "id": "painketsu@protonmail.com",
-          "strict_min_version": "50.0"
-        }
-      },
 
     "permissions": [
         "webRequest",
@@ -24,7 +17,7 @@
         "contextMenus",
         "<all_urls>"
     ],
-
+    "minimum_chrome_version": "31",
     "icons": {
         "48": "icons/64_002.png",
         "96": "icons/64_002.png"
